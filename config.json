@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrave",
+        "uuid": 3046077,
+        "checksum": "j733mk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
